@@ -1,0 +1,12 @@
+c:\users\primus.flash\documents\visual studio 2015\Projects\Savings\Savings\bin\Debug\Savings.exe.config
+c:\users\primus.flash\documents\visual studio 2015\Projects\Savings\Savings\bin\Debug\Savings.exe
+c:\users\primus.flash\documents\visual studio 2015\Projects\Savings\Savings\bin\Debug\Savings.pdb
+c:\users\primus.flash\documents\visual studio 2015\Projects\Savings\Savings\bin\Debug\Savings.xml
+c:\users\primus.flash\documents\visual studio 2015\Projects\Savings\Savings\obj\Debug\Savings.Form1.resources
+c:\users\primus.flash\documents\visual studio 2015\Projects\Savings\Savings\obj\Debug\Savings.Resources.resources
+c:\users\primus.flash\documents\visual studio 2015\Projects\Savings\Savings\obj\Debug\Savings.vbproj.GenerateResource.Cache
+c:\users\primus.flash\documents\visual studio 2015\Projects\Savings\Savings\obj\Debug\Savings.exe
+c:\users\primus.flash\documents\visual studio 2015\Projects\Savings\Savings\obj\Debug\Savings.xml
+c:\users\primus.flash\documents\visual studio 2015\Projects\Savings\Savings\obj\Debug\Savings.pdb
+c:\users\primus.flash\documents\visual studio 2015\Projects\Savings\Savings\obj\Debug\Savings.Form2.resources
+C:\Users\Primus.Flash\documents\visual studio 2015\Projects\Savings\Savings\obj\Debug\Savings.vbprojResolveAssemblyReference.cache
